@@ -1,4 +1,4 @@
-package Estudos1;
+package Estudos1_Getter_Setter;
 
 public class Pessoa {
 
