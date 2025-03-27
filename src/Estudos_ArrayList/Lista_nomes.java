@@ -1,6 +1,6 @@
 // USO SIMPLES DE UMA ARRAYLIST
 
-package Estudos2_ArrayList;
+package Estudos_ArrayList;
 
 import java.util.ArrayList;
 

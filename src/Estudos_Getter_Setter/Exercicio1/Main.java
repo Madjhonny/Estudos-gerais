@@ -1,4 +1,4 @@
-package Estudos1_Getter_Setter;
+package Estudos_Getter_Setter.Exercicio1;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 // UTLIZANDO ARRAYLIST JUNTO A EXCEÇÕES
 
-package Estudos2_ArrayList;
+package Estudos_ArrayList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
